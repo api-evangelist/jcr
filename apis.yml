@@ -1,11 +1,26 @@
+aid: jcr
 name: JCR
-description: JCR is a technology or concept used in computing and information technology
-  to address specific technical challenges. It provides capabilities that help practitioners
-  build, manage, or improve systems and processes in their domain.
-url: null
+description: >-
+  JCR (Java Content Repository) is a Java API for standardized access to
+  content repositories. The JCR specification (JSR-283) provides a common
+  interface for content management systems, including features for versioning,
+  access control, search, and observation.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- JCR
-created: '2025'
-modified: '2025'
+  - JCR
+  - Java
+  - Content Repository
+  - CMS
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/jcr/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://jcp.org/en/jsr/detail?id=283
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
