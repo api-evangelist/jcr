@@ -9,7 +9,7 @@ description: >-
   and observation, with the javax.jcr package as its core. The reference
   implementation is provided by the Apache Jackrabbit project.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - CMS
   - Content Repository
